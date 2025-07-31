@@ -1,0 +1,16 @@
+h1 {
+    color:blue;
+}
+li {
+    color:red;
+}
+.fried {
+    color:gold;
+}
+#chicken{
+    width: 200px; 
+    height: 200px;
+}
+.fried:hover {
+    transform: translateX(100px);
+}
